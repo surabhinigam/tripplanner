@@ -1,0 +1,77 @@
+body {
+  background-color: #90A4AE;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-default {
+  background-color: #607D8B;
+  border-color: #607D8B;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+  color: #CFD8DC;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active>a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color: #CFD8DC;
+  background-color: #607D8B;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #CFD8DC;
+}
+
+#map-canvas {
+  height: 668px;
+}
+
+#options {
+  background-color: #CFD8DC;
+  margin-top: 30px;
+  padding: 10px 10px 20px 10px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+select {
+  width: 245px;
+  margin-right: 10px;
+}
+
+#pages {
+  background-color: #607D8B;
+  padding: 10px;
+  margin-top: 10px;
+  margin-right: 30px;
+}
+
+.btn {
+  border-radius: 50%;
+}
+
+.btn-primary {
+  margin-right: 10px;
+  background-color: #BBDEFB;
+  border-color: #BBDEFB;
+  color: #607D8B;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#Schedule {
+  background-color: #CFD8DC;
+  padding: 10px 10px 20px 10px;
+  margin-right: 30px;
+}
+
+#schedule_heading {
+  margin-bottom: 0;
+}
+
+.schedule-btn {
+  margin-left: 105px;
+}
